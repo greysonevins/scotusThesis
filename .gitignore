@@ -1,0 +1,13 @@
+lastused.txt
+/node_modules
+.DS_Store
+*.json
+*.pdf
+*.md
+/.ipynb_checkpoints
+/__pycache__
+/pythonCloud
+*.csv
+*.txt
+test*
+PythonTest.ipynb
